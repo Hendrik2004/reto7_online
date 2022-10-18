@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "970936080478",
+    "project_id": "reto7-627fc",
+    "storage_bucket": "reto7-627fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970936080478:android:698dccca990362a5ab7ccf",
+        "android_client_info": {
+          "package_name": "co.edu.unal.reto7_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970936080478-8tkl5d6h493sjb0l5n0h9pvtas7f8nb9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.edu.unal.reto7_online",
+            "certificate_hash": "1773e6cb6d07f70d8e1a880be1abd40f06b7907f"
+          }
+        },
+        {
+          "client_id": "970936080478-oqa1gin7guauspcvgdequo92ge6cn9cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyMCXg_K23CcePKGPRUVZKCmQ-FDX_xLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970936080478-oqa1gin7guauspcvgdequo92ge6cn9cf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
